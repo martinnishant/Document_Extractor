@@ -1,0 +1,607 @@
+[
+  {
+    "bid_number": "JA-207652",
+    "title": "Student and Staff Computing Devices",
+    "due_date": null,
+    "bid_submission_type": null,
+    "term_of_bid": null,
+    "pre_bid_meeting": null,
+    "installation": null,
+    "bid_bond_requirement": null,
+    "delivery_date": "September 2024",
+    "payment_terms": null,
+    "additional_documentation": [
+      "Form 1295 - CERTIFICATE OF INTERESTED PARTIES",
+      "supporting documentation for attributes"
+    ],
+    "mfg_for_registration": null,
+    "contract_or_cooperative": null,
+    "model_no": [
+      "various device models"
+    ],
+    "part_no": [
+      "various device part numbers"
+    ],
+    "product": [
+      "laptops",
+      "Chromebooks",
+      "monitors",
+      "tablets"
+    ],
+    "contact_info": [
+      "Email Address",
+      "Telephone No.",
+      "Fax No."
+    ],
+    "company_name": null,
+    "bid_summary": "Dallas ISD is seeking vendors to provide student and staff computing devices, including laptops, Chromebooks, and monitors. The district is looking for devices that meet specific requirements, such as USB 3.1 ports and a minimum one-year warranty. Vendors must submit their proposals, including pricing and specifications, by the designated deadline. The district anticipates awarding the contract at the August board meeting and expects vendors to deliver devices starting in September 2024.",
+    "product_specification": [
+      "autopilot for Windows devices",
+      "enrollment in Google Management for Chromebooks",
+      "65w chargers for Chrome devices"
+    ],
+    "source_file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+    "source_path": "documents/Bid1/Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+    "bid_folder": "Bid1",
+    "document_type": "addendum",
+    "_validation": {
+      "is_valid": false,
+      "issues": [
+        "MISSING required field: due_date",
+        "MISSING required field: company_name",
+        "Fields not found in document: ['bid_submission_type', 'term_of_bid', 'pre_bid_meeting', 'installation', 'bid_bond_requirement', 'payment_terms', 'mfg_for_registration', 'contract_or_cooperative']"
+      ]
+    }
+  },
+  {
+    "bid_number": "JA-207652",
+    "title": "Student and Staff Computing Devices",
+    "due_date": "July 9, 2024 at 2:00 PM CST",
+    "bid_submission_type": null,
+    "term_of_bid": null,
+    "pre_bid_meeting": null,
+    "installation": null,
+    "bid_bond_requirement": null,
+    "delivery_date": null,
+    "payment_terms": null,
+    "additional_documentation": [
+      "Addendum No. 2",
+      "Proposal"
+    ],
+    "mfg_for_registration": null,
+    "contract_or_cooperative": null,
+    "model_no": null,
+    "part_no": null,
+    "product": null,
+    "contact_info": {
+      "Email Address": "",
+      "Telephone No": "",
+      "Fax No": "800 # (if available)"
+    },
+    "company_name": null,
+    "bid_summary": "The RFP JA-207652 is for Student and Staff Computing Devices. The due date for this RFP has been extended to July 9, 2024 at 2:00 PM CST. Bidders are required to acknowledge and return/submit a copy of this addendum with their proposal.",
+    "product_specification": null,
+    "source_file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+    "source_path": "documents/Bid1/Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+    "bid_folder": "Bid1",
+    "document_type": "addendum",
+    "_validation": {
+      "is_valid": false,
+      "issues": [
+        "MISSING required field: company_name",
+        "Fields not found in document: ['bid_submission_type', 'term_of_bid', 'pre_bid_meeting', 'installation', 'bid_bond_requirement', 'delivery_date', 'payment_terms', 'mfg_for_registration', 'contract_or_cooperative', 'model_no', 'part_no', 'product', 'product_specification']"
+      ]
+    }
+  },
+  {
+    "bid_number": "168884",
+    "title": "Student and Staff Computing Devices",
+    "due_date": "27-JUN-2024 14:00:00",
+    "bid_submission_type": "Online via iSupplier portal or manual submission",
+    "term_of_bid": "3 years with two 1-year extensions",
+    "pre_bid_meeting": "10-JUN-2024 14:00:00",
+    "installation": null,
+    "bid_bond_requirement": null,
+    "delivery_date": null,
+    "payment_terms": "The Prime vendor shall submit an M/WBE Pay Activity Report (PAR) indicating the amounts paid to its subcontractors with each pay application or as requested by the district. All Prime vendors must pay all submitted invoices, including retainage to subcontractors, suppliers, or entities within 10 days of receiving payment from the district.",
+    "additional_documentation": [
+      "factory-authorized repair and maintenance certifications",
+      "demonstrated competencies and references",
+      "past projects",
+      "reference letters",
+      "project plans",
+      "W9 name and dba if applicable",
+      "Company Federal Tax ID Number",
+      "Company Address, City, State, Zip",
+      "Local Telephone Number or Toll-Free Number",
+      "Number of Personnel (non-clerical) employed",
+      "Number of Personnel (clerical) employed",
+      "Subcontractor Forms",
+      "Form 1295 - Certificate of Interested Parties",
+      "CONFLICT OF INTEREST QUESTIONNAIRE FORM",
+      "certificate of insurance/bond",
+      "worker's compensation coverage",
+      "Workers Compensation coverage",
+      "FEDERAL REQUIREMENTS (EDGAR)",
+      "certifications and provisions",
+      "procurement provisions of Appendix II to Part 200",
+      "Federal Rule (F) above",
+      "Federal Rule (G) above",
+      "Federal Rule (H) above",
+      "Federal Rule (I) above",
+      "Federal Rule (J) above",
+      "Federal Rule (K) above",
+      "Standard Form- LLL, 'Disclosure Form to Report Lobbying'",
+      "Records as required by 2 CFR 200.333",
+      "Deviations/Exceptions attribute",
+      "Evaluation Criteria Score Sheet",
+      "General Terms and Conditions",
+      "M/WBE compliance plan",
+      "MWBE Forms",
+      "W9 Form",
+      "Punch Out Process",
+      "M/WBE Compliance Guidelines and Forms",
+      "Diversity Plans",
+      "Workforce Composition",
+      "References",
+      "Mentor Protégé Program",
+      "M/WBE Certificates",
+      "Affirmative Action",
+      "Equal Employment Opportunity or Supplier Diversity Plan",
+      "signed, dated and notarized Joint Venture Agreement",
+      "signed, dated and notarized Mentor Protégé Agreement",
+      "Minutes or Prime-Subcontractor Teaming Agreement",
+      "M/WBE Pay Activity Report (PAR)",
+      "Proof of payments",
+      "Partial Lien Releases",
+      "Cancelled Checks",
+      "Proof of Electronic Funds Transfer"
+    ],
+    "mfg_for_registration": null,
+    "contract_or_cooperative": "Interlocal Agreement",
+    "model_no": [
+      "Intel Celeron Processor N100",
+      "Intel i5 13th Gen",
+      "Intel i5 Processor, 14th Gen",
+      "Intel i7 Processor, 14th Gen",
+      "A13",
+      "Intel i5 Processor, 14th Gen or equivalent",
+      "Intel i7 Processor, 14th Gen or equivalent",
+      "A13 Processor",
+      "JA-207652",
+      "Chromebook Laptop (Touch)",
+      "Chromebook Laptop (Non- Touch)",
+      "Windows Laptop",
+      "Tier 1 Small Student Chromebook Laptop (Touch)",
+      "Tier 2 Large Student Chromebook Laptop (Non- Touch)",
+      "Tier 3 Student Windows Laptop",
+      "Student Tablet",
+      "Tier 1 Staff Basic Desktop",
+      "Tier 2 Staff Professional Desktop",
+      "Tier 1 Staff Laptop",
+      "Tier 2 Staff Laptop",
+      "Display Monitor - Touch",
+      "Display Monitor - Non-Touch"
+    ],
+    "part_no": null,
+    "product": [
+      "laptops",
+      "desktops",
+      "tablet devices",
+      "display monitors",
+      "Student Tablet",
+      "Staff Laptop",
+      "Display Monitor - Touch",
+      "Display Monitor - Non-Touch",
+      "Computing Devices",
+      "Student and Staff Computing Devices",
+      "Chromebook Laptop",
+      "Windows Laptop",
+      "Desktop",
+      "Display Monitor",
+      "Student Chromebook Laptop",
+      "Staff Desktop"
+    ],
+    "contact_info": "JALZATE@dallasisd.org",
+    "company_name": "Dallas ISD",
+    "bid_summary": "The Dallas Independent School District is soliciting proposals for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. The district is seeking vendors who can provide devices that meet the minimum hardware requirements specified in the RFP. The contract will be for a three-year term with two one-year extensions. The district reserves the right to award contracts to a single vendor or multiple vendors.",
+    "product_specification": [
+      "Enterprise Management Ready",
+      "Intel Celeron Processor N100 or equivalent",
+      "Display: Minimum 11.6\" diagonal",
+      "Integrated Camera: 720p minimum",
+      "Screen Resolution 1366 x 768 Multi-touch",
+      "Memory: Minimum 8GB DDR5 Memory",
+      "Wireless: 802.11AX WiFi-6E and Bluetooth 5.1",
+      "Power Supply: Type C, 65W",
+      "Battery Life: Minimum 10 hours",
+      "Ports: Minimum 2 USB 3.0; type C; 1 headphone/microphone combo",
+      "Storage: 64 GB eMMC",
+      "Chrome O/S License Required",
+      "Warranty: 1-year minimum",
+      "Minimum 16GB RAM",
+      "Minimum 32GB DDR5 RAM",
+      "802.11AX WiFi-6E and Bluetooth 5.1",
+      "Minimum 3 USB 3.0 ports",
+      "Minimum 512 GB NVMe SSD storage",
+      "Windows 11 Pro or Mac OS",
+      "computing devices",
+      "student devices",
+      "staff devices",
+      "Student and Staff Computing Devices",
+      "labor standards provisions",
+      "prevailing wage determination",
+      "Telecommunications equipment",
+      "Video surveillance equipment",
+      "Computing devices",
+      "Computing devices for students and staff",
+      "Chromebook Laptop (Touch)",
+      "Chromebook Laptop (Non- Touch)",
+      "Windows Laptop",
+      "Desktop",
+      "Display Monitor - Touch",
+      "Display Monitor - Non-Touch",
+      "Tier 1 Small Student Chromebook Laptop (Touch) specifications",
+      "Tier 2 Large Student Chromebook Laptop (Non- Touch) specifications",
+      "Tier 3 Student Windows Laptop specifications",
+      "Student Tablet specifications",
+      "Tier 1 Staff Basic Desktop specifications",
+      "Tier 2 Staff Professional Desktop specifications",
+      "Tier 1 Staff Laptop specifications",
+      "Tier 2 Staff Laptop specifications",
+      "Display Monitor - Touch specifications",
+      "Display Monitor - Non-Touch specifications"
+    ],
+    "source_file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+    "source_path": "documents/Bid1/JA-207652 Student and Staff Computing Devices FINAL.pdf",
+    "bid_folder": "Bid1",
+    "document_type": "rfp",
+    "_validation": {
+      "is_valid": true,
+      "issues": [
+        "Fields not found in document: ['installation', 'bid_bond_requirement', 'delivery_date', 'mfg_for_registration', 'part_no']"
+      ]
+    }
+  },
+  {
+    "bid_number": "JA-207652",
+    "title": "Student and Staff Computing Devices **SOURCING #168884**",
+    "due_date": "07/09/2024 03:00 PM EDT",
+    "bid_submission_type": null,
+    "term_of_bid": "five years",
+    "pre_bid_meeting": "06/10/2024 03:00 PM EDT",
+    "installation": null,
+    "bid_bond_requirement": null,
+    "delivery_date": null,
+    "payment_terms": null,
+    "additional_documentation": [
+      "laptops",
+      "desktops",
+      "tablet devices",
+      "display monitors",
+      "sleeves",
+      "cases",
+      "mice",
+      "keyboards",
+      "cables"
+    ],
+    "mfg_for_registration": null,
+    "contract_or_cooperative": null,
+    "model_no": null,
+    "part_no": null,
+    "product": [
+      "laptops",
+      "desktops",
+      "tablet devices",
+      "display monitors"
+    ],
+    "contact_info": "Procurement Services, 972-925-3700, ProcurementCS@dallasisd.org",
+    "company_name": "Dallas Independent School District",
+    "bid_summary": "The Dallas Independent School District is seeking proposals for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. The district reserves the right to award contracts to a single vendor or multiple vendors. The specifications listed in this RFP are the minimum hardware requirements for each tier of device required by Dallas ISD. ",
+    "product_specification": [
+      "minimum hardware requirements for each tier of device",
+      "laptops",
+      "desktops",
+      "tablet devices",
+      "display monitors"
+    ],
+    "source_file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+    "source_path": "documents/Bid1/Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+    "bid_folder": "Bid1",
+    "document_type": "rfp",
+    "_validation": {
+      "is_valid": true,
+      "issues": [
+        "Fields not found in document: ['bid_submission_type', 'installation', 'bid_bond_requirement', 'delivery_date', 'payment_terms', 'mfg_for_registration', 'contract_or_cooperative', 'model_no', 'part_no']"
+      ]
+    }
+  },
+  {
+    "bid_number": null,
+    "title": null,
+    "due_date": null,
+    "bid_submission_type": null,
+    "term_of_bid": null,
+    "pre_bid_meeting": null,
+    "installation": null,
+    "bid_bond_requirement": null,
+    "delivery_date": null,
+    "payment_terms": null,
+    "additional_documentation": null,
+    "mfg_for_registration": null,
+    "contract_or_cooperative": null,
+    "model_no": null,
+    "part_no": null,
+    "product": null,
+    "contact_info": null,
+    "company_name": null,
+    "bid_summary": "This document outlines the requirements and affirmations for a business to participate in a procurement contract with the State of Maryland. The business must comply with various laws and regulations, including those related to financial disclosure, political contribution disclosure, and maintaining a drug and alcohol-free workplace. The contract is conditional upon compliance with these requirements, and violation may result in termination or suspension of the contract. The business must also provide certain documentation and affirmations, including a proposal affidavit and a contract affidavit.",
+    "product_specification": null,
+    "source_file": "Contract_Affidavit.pdf",
+    "source_path": "documents/Bid2/Contract_Affidavit.pdf",
+    "bid_folder": "Bid2",
+    "document_type": "rfp",
+    "_validation": {
+      "is_valid": false,
+      "issues": [
+        "MISSING required field: bid_number",
+        "MISSING required field: title",
+        "MISSING required field: due_date",
+        "MISSING required field: company_name",
+        "Fields not found in document: ['bid_submission_type', 'term_of_bid', 'pre_bid_meeting', 'installation', 'bid_bond_requirement', 'delivery_date', 'payment_terms', 'additional_documentation', 'mfg_for_registration', 'contract_or_cooperative', 'model_no', 'part_no', 'product', 'contact_info', 'product_specification']"
+      ]
+    }
+  },
+  {
+    "bid_number": "BPM044557",
+    "title": "Dell Laptops w/Extended Warranty",
+    "due_date": "06/10/2024 02:00 PM EDT",
+    "bid_submission_type": null,
+    "term_of_bid": null,
+    "pre_bid_meeting": null,
+    "installation": null,
+    "bid_bond_requirement": null,
+    "delivery_date": "06/10/2024",
+    "payment_terms": null,
+    "additional_documentation": [
+      "https://emma.maryland.gov/page.aspx/en/bpm/process_manage_extranet/70726"
+    ],
+    "mfg_for_registration": null,
+    "contract_or_cooperative": null,
+    "model_no": [
+      "Dell Latitude 5550",
+      "WD22TB4"
+    ],
+    "part_no": [
+      "CC7802"
+    ],
+    "product": [
+      "Laptops",
+      "Dell Thunderbolt 4 Dock"
+    ],
+    "contact_info": {
+      "name": "Tamaira Hawkins",
+      "phone": "410-260-7533",
+      "email": "Thawkins@treasurer.state.md.us"
+    },
+    "company_name": "State of Maryland Treasurer's Office",
+    "bid_summary": "The State of Maryland Treasurer's Office is seeking bids for Dell laptops with extended warranty. The laptops must be Microsoft Copilot ready. The bid includes Dell Latitude 5550 laptops and Dell Thunderbolt 4 Dock.",
+    "product_specification": [
+      "Microsoft Copilot ready",
+      "Dell Latitude 5550",
+      "Dell Thunderbolt 4 Dock - WD22TB4"
+    ],
+    "source_file": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+    "source_path": "documents/Bid2/Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+    "bid_folder": "Bid2",
+    "document_type": "rfp",
+    "_validation": {
+      "is_valid": true,
+      "issues": [
+        "Fields not found in document: ['bid_submission_type', 'term_of_bid', 'pre_bid_meeting', 'installation', 'bid_bond_requirement', 'payment_terms', 'mfg_for_registration', 'contract_or_cooperative']"
+      ]
+    }
+  },
+  {
+    "bid_number": "SI# CC7802",
+    "title": "Dell Latitude 5550",
+    "due_date": null,
+    "bid_submission_type": null,
+    "term_of_bid": null,
+    "pre_bid_meeting": null,
+    "installation": null,
+    "bid_bond_requirement": null,
+    "delivery_date": null,
+    "payment_terms": "Taxes and/or freight charges listed on this Quote are only estimates. The final amounts shall be stated on the relevant invoice.",
+    "additional_documentation": [
+      "Dell Additional Software",
+      "SERI Guide (ENG/FR/Multi)",
+      "Latitude 5550 Quick Start Guide"
+    ],
+    "mfg_for_registration": "Dell",
+    "contract_or_cooperative": null,
+    "model_no": [
+      "210-BLYZ",
+      "379-BFNZ",
+      "619-ARSB",
+      "658-BCSB",
+      "338-CNRG",
+      "338-CNRK",
+      "321-BKTQ",
+      "409-BCXY",
+      "631-BBSQ",
+      "370-BBTL",
+      "400-BRFT",
+      "391-BJHB",
+      "583-BLNH",
+      "555-BKQC",
+      "555-BKLQ",
+      "451-BDGX",
+      "492-BDMN",
+      "346-BKLV",
+      "537-BBDO",
+      "340-DMNY",
+      "340-AGIK",
+      "387-BBPC",
+      "817-BBBB",
+      "658-BFQB",
+      "340-DMMK",
+      "389-FGSN",
+      "319-BBKK",
+      "634-BRWG",
+      "379-BDZB"
+    ],
+    "part_no": [
+      "210-BLYZ",
+      "379-BFNZ",
+      "619-ARSB",
+      "658-BCSB",
+      "338-CNRG",
+      "338-CNRK",
+      "321-BKTQ",
+      "409-BCXY",
+      "631-BBSQ",
+      "370-BBTL",
+      "400-BRFT",
+      "391-BJHB",
+      "583-BLNH",
+      "555-BKQC",
+      "555-BKLQ",
+      "451-BDGX",
+      "492-BDMN",
+      "346-BKLV",
+      "537-BBDO",
+      "340-DMNY",
+      "340-AGIK",
+      "387-BBPC",
+      "817-BBBB",
+      "658-BFQB",
+      "340-DMMK",
+      "389-FGSN",
+      "319-BBKK",
+      "634-BRWG",
+      "379-BDZB"
+    ],
+    "product": [
+      "Dell Latitude 5550",
+      "Intel Core Ultra 5 125U processor",
+      "Windows 11 Pro",
+      "English US backlit AI hotkey keyboard with numeric keypad",
+      "Intel Wi-Fi 6E (6 where 6E unavailable) AX211, 2x2, 802.11ax, Bluetooth 5.3 wireless card",
+      "3-cell, 54 Wh, ExpressCharge Capable, ExpressCharge Boost Capable"
+    ],
+    "contact_info": "One Dell Way, Mail Stop 8129, Round Rock, TX 78682",
+    "company_name": "Dell Marketing LP",
+    "bid_summary": "The Dell Latitude 5550 is a laptop with an Intel Core Ultra 5 125U processor, Windows 11 Pro, and a 15.6 inch FHD display. The laptop also features a backlit keyboard, Wi-Fi 6E, and a 3-cell battery. The quote includes various configuration options and additional software. The payment terms are based on estimates, with the final amounts stated on the relevant invoice.",
+    "product_specification": [
+      "Intel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14 threads, up to 4.3 GHz Turbo)",
+      "Windows 11 Pro, English, Brazilian Portuguese PT-BR, French, Spanish",
+      "15.6, FHD 1920x1080, 60Hz, IPS, Non-Touch, AG, 250 nit, 45% NTSC, FHD Cam",
+      "English US backlit AI hotkey keyboard with numeric keypad, 99-key",
+      "Intel Wi-Fi 6E (6 where 6E unavailable) AX211, 2x2, 802.11ax, Bluetooth 5.3 wireless card",
+      "3-cell, 54 Wh, ExpressCharge Capable, ExpressCharge Boost Capable"
+    ],
+    "source_file": "Dell_Laptop_Specs.pdf",
+    "source_path": "documents/Bid2/Dell_Laptop_Specs.pdf",
+    "bid_folder": "Bid2",
+    "document_type": "rfp",
+    "_validation": {
+      "is_valid": false,
+      "issues": [
+        "MISSING required field: due_date",
+        "Fields not found in document: ['bid_submission_type', 'term_of_bid', 'pre_bid_meeting', 'installation', 'bid_bond_requirement', 'delivery_date', 'contract_or_cooperative']"
+      ]
+    }
+  },
+  {
+    "bid_number": null,
+    "title": null,
+    "due_date": null,
+    "bid_submission_type": null,
+    "term_of_bid": null,
+    "pre_bid_meeting": null,
+    "installation": null,
+    "bid_bond_requirement": null,
+    "delivery_date": null,
+    "payment_terms": null,
+    "additional_documentation": [
+      "Mercury Content Information"
+    ],
+    "mfg_for_registration": null,
+    "contract_or_cooperative": null,
+    "model_no": null,
+    "part_no": null,
+    "product": null,
+    "contact_info": null,
+    "company_name": null,
+    "bid_summary": "The document is an affidavit for mercury content information, requiring the authorized representative to affirm the presence or absence of mercury in the product. The affidavit must be furnished to the procurement officer and may be distributed to various government units. The document is subject to applicable laws of the United States and the State of Maryland.",
+    "product_specification": null,
+    "source_file": "Mercury_Affidavit.pdf",
+    "source_path": "documents/Bid2/Mercury_Affidavit.pdf",
+    "bid_folder": "Bid2",
+    "document_type": "rfp",
+    "_validation": {
+      "is_valid": false,
+      "issues": [
+        "MISSING required field: bid_number",
+        "MISSING required field: title",
+        "MISSING required field: due_date",
+        "MISSING required field: company_name",
+        "Fields not found in document: ['bid_submission_type', 'term_of_bid', 'pre_bid_meeting', 'installation', 'bid_bond_requirement', 'delivery_date', 'payment_terms', 'mfg_for_registration', 'contract_or_cooperative', 'model_no', 'part_no', 'product', 'contact_info', 'product_specification']"
+      ]
+    }
+  },
+  {
+    "bid_number": "#E20P4600040",
+    "title": "Hardware Master Contract",
+    "due_date": "06/10/2024",
+    "bid_submission_type": "Electronic",
+    "term_of_bid": "90 days",
+    "pre_bid_meeting": null,
+    "installation": null,
+    "bid_bond_requirement": null,
+    "delivery_date": "45 days of Award",
+    "payment_terms": "Invoice(s) shall be submitted within 10 days of delivering the equipment",
+    "additional_documentation": [
+      "Letter of Authorization (LOA) from the Manufacturer or Distributor",
+      "Mercury Affidavit",
+      "Proof of delivery including packing slip or delivery confirmation, and equipment serial numbers"
+    ],
+    "mfg_for_registration": "Dell",
+    "contract_or_cooperative": "Master Contract",
+    "model_no": [
+      "SI# CC7802",
+      "WD22TB4"
+    ],
+    "part_no": [
+      "SI# CC7802",
+      "WD22TB4"
+    ],
+    "product": [
+      "Dell Latitude 5550",
+      "Dell Thunderbolt 4 Dock – WD22TB4"
+    ],
+    "contact_info": {
+      "name": "Tamaira Hawkins",
+      "email": "thawkins@treasurer.state.md.us",
+      "phone": "410-260-7533"
+    },
+    "company_name": "MD State Treasurer's Office",
+    "bid_summary": "The State of Maryland is seeking bids for a Hardware Master Contract to provide laptops and associated peripherals. The contract will be awarded to one vendor for both Functional Area requirements. The agency intends to make an award based on the most advantageous proposal, considering price and evaluation factors. The selected Master Contractor will be required to provide a Letter of Authorization from the Manufacturer or Distributor, a Mercury Affidavit, and proof of delivery.",
+    "product_specification": [
+      "Microsoft Copilot ready",
+      "ENERGY STAR certified product",
+      "Dell Limited Hardware Warranty Extended for all machines purchased - 3 Years"
+    ],
+    "source_file": "PORFP_-_Dell_Laptop_Final.pdf",
+    "source_path": "documents/Bid2/PORFP_-_Dell_Laptop_Final.pdf",
+    "bid_folder": "Bid2",
+    "document_type": "rfp",
+    "_validation": {
+      "is_valid": true,
+      "issues": [
+        "Fields not found in document: ['pre_bid_meeting', 'installation', 'bid_bond_requirement']"
+      ]
+    }
+  }
+]
